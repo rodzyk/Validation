@@ -1,0 +1,13 @@
+{
+    "name": "rodzyk/validation",
+    "description": "Simple PHP class for Validation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rodzyk",
+            "email": "rodzyk@programmer.net"
+        }
+    ],
+    "require": {}
+}
